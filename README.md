@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhanush Wodeyar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" src="https://ibb.co/Lx4NtwC" width="400px" alt="Profile-pic" />
+<img align="right" src="https://instagram.fblr23-1.fna.fbcdn.net/v/t51.2885-19/369811471_835261734668136_4198036632468939013_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fblr23-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=X-gaaYiuyrcAX_XuuQF&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfCgYedM8_DTb8KwBqm60z3zBKTDUnnrmvV0Y4VX4OsBEw&oe=653B5318&_nc_sid=ee9879" width="300px" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushwodeyar&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushwodeyar" /> </p>
 
