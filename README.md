@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dhanush Wodeyar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<img align="right" src="https://ibb.co/Lx4NtwC" width="400px" alt="Profile-pic" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushwodeyar&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushwodeyar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanushwodeyar" alt="dhanushwodeyar" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/https://twitter.com/dhanushwodeyar" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/dhanushwodeyar?logo=twitter&style=for-the-badge" alt="https://twitter.com/dhanushwodeyar" /></a> </p>
 
 - 🌱 I’m currently learning **CCNA Networking and Security**
 
@@ -17,8 +20,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dhanush b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhanush b" height="30" width="40" /></a>
-<a href="https://fb.com/dhanush wodeyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dhanush wodeyar" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/your-work/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/your-work/" height="30" width="40" /></a>
+<a href="https://twitter.com/https://twitter.com/dhanushwodeyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/dhanushwodeyar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dhanush-b-882ab4250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhanush-b-882ab4250/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/dhanush.wodeyar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/dhanush.wodeyar" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/dhanush_wodeyar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dhanush_wodeyar/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc-9h5igfeup-np6qxhswcwg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc-9h5igfeup-np6qxhswcwg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanushwodeyar&show_icons=true&locale=en" alt="dhanushwodeyar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushwodeyar&" alt="dhanushwodeyar" /></p>
-
