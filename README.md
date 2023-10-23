@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dhanushwodeyar@gmail.com**
 
-- 📄 My Resume [https://docs.google.com/document/d/1L9wU3z_WFnfa9HKYLzIJqKFyJ1Vv6lsv/edit?usp=share_link&ouid=118218212828948775685&rtpof=true&sd=true](https://docs.google.com/document/d/1L9wU3z_WFnfa9HKYLzIJqKFyJ1Vv6lsv/edit?usp=share_link&ouid=118218212828948775685&rtpof=true&sd=true)
+- 📄 My Resume [https://dhanushwodeyar.github.io/Dhanush-Resume/](https://dhanushwodeyar.github.io/Dhanush-Resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
