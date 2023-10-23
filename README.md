@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhanush Wodeyar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" src="https://instagram.fblr23-1.fna.fbcdn.net/v/t51.2885-19/369811471_835261734668136_4198036632468939013_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fblr23-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=X-gaaYiuyrcAX_XuuQF&edm=ACWDqb8BAAAA&ccb=7-5&oh=00_AfCgYedM8_DTb8KwBqm60z3zBKTDUnnrmvV0Y4VX4OsBEw&oe=653B5318&_nc_sid=ee9879" width="300px" />
+<img align="right" src="https://scontent.fblr23-1.fna.fbcdn.net/v/t39.30808-6/320994898_700194221811517_1707117843419333747_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=C-BCkrJlHygAX9fYNlk&_nc_ht=scontent.fblr23-1.fna&oh=00_AfDWtUL6WpMAWEzeCfNBO6cNDBmoUbNnaORhD1zRH0XiVw&oe=653B9CDC" width="300px" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanushwodeyar&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushwodeyar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanushwodeyar" alt="dhanushwodeyar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/dhanushwodeyar" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/dhanushwodeyar?logo=twitter&style=for-the-badge" alt="https://twitter.com/dhanushwodeyar" /></a> </p>
 
 - 🌱 I’m currently learning **CCNA Networking and Security**
 
