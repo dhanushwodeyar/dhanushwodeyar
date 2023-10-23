@@ -1,8 +1,7 @@
+[![MasterHead](https://media.licdn.com/dms/image/D5616AQHvh4yrAutOtw/profile-displaybackgroundimage-shrink_350_1400/0/1698060686665?e=1703721600&v=beta&t=P7nKtjMEh_JSyvz3BcT5PgLu4mNKmHt4a3TUTFpaVbE)](https://media.licdn.com/dms/image/D5616AQHvh4yrAutOtw/profile-displaybackgroundimage-shrink_350_1400/0/1698060686665?e=1703721600&v=beta&t=P7nKtjMEh_JSyvz3BcT5PgLu4mNKmHt4a3TUTFpaVbE)
 <h1 align="center">Hi 👋, I'm Dhanush Wodeyar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" src="https://scontent.fblr23-1.fna.fbcdn.net/v/t39.30808-6/320994898_700194221811517_1707117843419333747_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=C-BCkrJlHygAX9fYNlk&_nc_ht=scontent.fblr23-1.fna&oh=00_AfDWtUL6WpMAWEzeCfNBO6cNDBmoUbNnaORhD1zRH0XiVw&oe=653B9CDC" width="300px" />
-
-
 
 - 🌱 I’m currently learning **CCNA Networking and Security**
 
